@@ -1,0 +1,45 @@
+C:\Users\Md.Newaj Shahriar\Documents\Visual Studio 2012\Projects\LibraryManagement\LibraryManagement\bin\LibraryManagement.dll
+C:\Users\Md.Newaj Shahriar\Documents\Visual Studio 2012\Projects\LibraryManagement\LibraryManagement\bin\LibraryManagement.pdb
+C:\Users\Md.Newaj Shahriar\Documents\Visual Studio 2012\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Md.Newaj Shahriar\Documents\Visual Studio 2012\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.dll
+C:\Users\Md.Newaj Shahriar\Documents\Visual Studio 2012\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement V1\LibraryManagement\bin\LibraryManagement.dll
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement V1\LibraryManagement\bin\LibraryManagement.pdb
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement V1\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement V1\LibraryManagement\obj\Debug\LibraryManagement.dll
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement V1\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Jaid Bin\Desktop\LibraryManagement V2\LibraryManagement\bin\LibraryManagement.dll
+C:\Users\Jaid Bin\Desktop\LibraryManagement V2\LibraryManagement\bin\LibraryManagement.pdb
+C:\Users\Jaid Bin\Desktop\LibraryManagement V2\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Jaid Bin\Desktop\LibraryManagement V2\LibraryManagement\obj\Debug\LibraryManagement.dll
+C:\Users\Jaid Bin\Desktop\LibraryManagement V2\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Jaid Bin\Desktop\LibraryManagement V4\LibraryManagement\bin\LibraryManagement.dll
+C:\Users\Jaid Bin\Desktop\LibraryManagement V4\LibraryManagement\bin\LibraryManagement.pdb
+C:\Users\Jaid Bin\Desktop\LibraryManagement V4\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Jaid Bin\Desktop\LibraryManagement V4\LibraryManagement\obj\Debug\LibraryManagement.dll
+C:\Users\Jaid Bin\Desktop\LibraryManagement V4\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4\LibraryManagement\bin\LibraryManagement.dll
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4\LibraryManagement\bin\LibraryManagement.pdb
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4\LibraryManagement\obj\Debug\LibraryManagement.dll
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4 - Copy\LibraryManagement\bin\LibraryManagement.dll
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4 - Copy\LibraryManagement\bin\LibraryManagement.pdb
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4 - Copy\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4 - Copy\LibraryManagement\obj\Debug\LibraryManagement.dll
+C:\Users\Jaid Bin\Desktop\CG\LibraryManagement V4 - Copy\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Md.Newaj Shahriar\Desktop\New folder\New folder\LibraryManagement V4 - Copy\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Md.Newaj Shahriar\Desktop\New folder\New folder\LibraryManagement V4 - Copy\LibraryManagement\obj\Debug\LibraryManagement.dll
+C:\Users\Md.Newaj Shahriar\Desktop\New folder\New folder\LibraryManagement V4 - Copy\LibraryManagement\bin\LibraryManagement.dll
+C:\Users\Md.Newaj Shahriar\Desktop\New folder\New folder\LibraryManagement V4 - Copy\LibraryManagement\bin\LibraryManagement.pdb
+C:\Users\Md.Newaj Shahriar\Desktop\New folder\New folder\LibraryManagement V4 - Copy\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement MID PROJECT\LibraryManagement\bin\LibraryManagement.dll
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement MID PROJECT\LibraryManagement\bin\LibraryManagement.pdb
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement MID PROJECT\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement MID PROJECT\LibraryManagement\obj\Debug\LibraryManagement.dll
+C:\Users\Md.Newaj Shahriar\Desktop\LibraryManagement MID PROJECT\LibraryManagement\obj\Debug\LibraryManagement.pdb
+F:\Fall'16\ASP.net\mid\Mid Project\LibraryManagement MID PROJECT edit v\LibraryManagement\bin\LibraryManagement.dll
+F:\Fall'16\ASP.net\mid\Mid Project\LibraryManagement MID PROJECT edit v\LibraryManagement\bin\LibraryManagement.pdb
+F:\Fall'16\ASP.net\mid\Mid Project\LibraryManagement MID PROJECT edit v\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+F:\Fall'16\ASP.net\mid\Mid Project\LibraryManagement MID PROJECT edit v\LibraryManagement\obj\Debug\LibraryManagement.dll
+F:\Fall'16\ASP.net\mid\Mid Project\LibraryManagement MID PROJECT edit v\LibraryManagement\obj\Debug\LibraryManagement.pdb
